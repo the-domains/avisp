@@ -1,6 +1,6 @@
 name: AVISP
 favicon: null
-layout_spectrum: 0.8
+layout_spectrum: 0.74128
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#6d6d6d'
   brandStrength: 1
   lightness: 0.5
-  saturation: 0.5
+  saturation: 0.875
   rhythmicContrast: 0.5
 purpose:
   - name: awareness
