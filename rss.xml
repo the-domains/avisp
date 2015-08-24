@@ -3,14 +3,21 @@
     <channel>
         <title><![CDATA[AVISP]]></title>
         <description><![CDATA[AVISP]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>http://avispmail.com/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 24 Aug 2015 20:32:57 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 24 Aug 2015 20:34:30 GMT</lastBuildDate>
+        <atom:link href="http://avispmail.com/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA["AVISP [internet services] has put a smile on our faces."]]></title>
+            <description><![CDATA[<article><h1>"AVISP [internet services] has put a smile on our faces."</h1><p>AVISP [internet services] has put a smile on our faces. It is so much faster than dial up, and we have received outstanding personal attention and service. Thank you AVISP!" Sincerely, Ron and Kris Dick Ron , Healdsburg, CA | May 02, 2009 Working hard on upgrades and cabling.</p><img src="http://avispmail.com/wp-content/uploads/2015/05/78-labeled.jpg"></article>]]></description>
+            <link>http://avispmail.com/customers-say/</link>
+            <guid isPermaLink="false">cb59a772-e37f-4634-97b5-d048dda7bca4</guid>
+            <pubDate>Mon, 24 Aug 2015 20:34:17 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="http://avispmail.com/wp-content/uploads/2015/07/35404609_m-692x380.jpg">]]></description>
-            <link>undefined90b79dd3-292a-423e-b9dd-8aab71e174af/index.html</link>
+            <link>http://avispmail.com/90b79dd3-292a-423e-b9dd-8aab71e174af/index.html</link>
             <guid isPermaLink="false">90b79dd3-292a-423e-b9dd-8aab71e174af</guid>
             <pubDate>Mon, 24 Aug 2015 20:32:52 GMT</pubDate>
         </item>
