@@ -23,8 +23,8 @@ color:
     - '#5e5e5e'
   brandStrength: 1
   lightness: 0.5625
-  saturation: 0.5625
-  rhythmicContrast: 0.75
+  saturation: 0.5
+  rhythmicContrast: 0.5
 purpose:
   - name: awareness
     item: null
