@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[AVISP]]></title>
+        <description><![CDATA[AVISP]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 25 Aug 2015 17:50:41 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[How to save URLs to your Dropbox folders - CNET]]></title>
+            <description><![CDATA[<article><h1>How to save URLs to your Dropbox folders - CNET</h1><p>For many users, Dropbox is the go-to tool for storing and sharing files, photos, music and the like. Put simply, it keeps everything under one roof. Well, almost everything. Until a couple days ago, Dropbox didn't support one particular form of data: Web links.</p><img src="http://cnet1.cbsistatic.com/hub/i/r/2015/08/21/4fd31f40-d21d-4939-831e-95d41f9fd6b4/resize/770x578/ca8cf620c12c2e4ee7b05d21601be322/dropbox-url-added.jpg"></article>]]></description>
+            <link>http://www.cnet.com/how-to/how-to-save-urls-to-your-dropbox-folders/</link>
+            <guid isPermaLink="false">ad6ab94e-268c-4e8e-9170-3627c3908d7a</guid>
+            <pubDate>Tue, 25 Aug 2015 17:50:35 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
